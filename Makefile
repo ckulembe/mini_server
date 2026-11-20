@@ -1,6 +1,6 @@
 NAME		=	mini_serv
 CC		=	cc
-CFLAGS	=	-Wall -Wextra -Werror
+CFLAGS	=	-g -Wall -Wextra -Werror
 
 SRC		=	mini_serv.c
 OBJS		=	$(SRC:.c=.o)

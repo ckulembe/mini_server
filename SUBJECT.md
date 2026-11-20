@@ -59,7 +59,7 @@ Não são permitidos fugas de memória ou de fd.
 
 Para o ajudar, encontrará o ficheiro main.c com o início de um servidor e, talvez, algumas funções úteis. (Tenha em atenção que este ficheiro utiliza funções proibidas ou escreve coisas que não devem constar no seu programa final).
 
-Aviso: o nosso testador espera que envie as mensagens o mais rapidamente possível. Não utilize buffers desnecessários.
+-   **Aviso:** o nosso testador espera que envie as mensagens o mais rapidamente possível. Não utilize buffers desnecessários.
 
 A avaliação pode demorar um pouco mais do que o habitual...
 
